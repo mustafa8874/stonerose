@@ -1,2 +1,5 @@
 a.exe
 b.exe
+
+belgeler/*
+!belgeler/dosya1.html
